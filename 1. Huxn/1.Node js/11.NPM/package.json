@@ -1,0 +1,24 @@
+{
+  "name": "huxn",
+  "version": "1.0.0",
+  "description": "the best package ever",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/@huxnwebdev"
+  },
+  "keywords": [
+    "awsome",
+    "javascript"
+  ],
+  "author": "huxnwebdev",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
